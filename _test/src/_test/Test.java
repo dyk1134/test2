@@ -7,7 +7,10 @@ public class Test {
 		int b = 2;
 		
 		System.out.println(b);
+
 		System.out.println(b);
+
+
 		
 	}
 }
